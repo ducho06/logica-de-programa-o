@@ -10,4 +10,4 @@ while (num !=9999){
         }
     }
 }
-console.log("omaior numero é: ", maior)
+console.log("o maior numero é: ", maior)
